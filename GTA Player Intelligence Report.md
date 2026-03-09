@@ -860,4 +860,4 @@ GTA-Player-Intelligence-Report/
 
 ---
 
-*Project by [Your Name] | [LinkedIn] | [Portfolio]*
+*Project by Devika Nikam
